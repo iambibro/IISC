@@ -1,0 +1,37 @@
+/* login.css */
+
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    box-shadow: 10px;
+    background-image: url("../assets/2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.cb{
+    color: #dcd3e2;
+}
+
+.login-form {
+    width: 300px;
+    box-shadow: 2px;
+}
+
+.login-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.login-button {
+    width: 108%;
+    padding: 10px;
+    background-color: #5bd13e;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
