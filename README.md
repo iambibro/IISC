@@ -1,4 +1,4 @@
-# User Session Management System
+# User Session Management System application
 
 The User Session Management System is a web application built using the MERN (MongoDB, Express, React, Node) stack. It provides user authentication, session management, and a dashboard with map functionality
 
